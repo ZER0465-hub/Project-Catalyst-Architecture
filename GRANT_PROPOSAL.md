@@ -29,3 +29,16 @@
 To preserve the non-volatile independence of this computing architecture, Project Catalyst operates under strict decentralization rules:
 1. **IP Retention:** 100% of the sovereign software engineering remains protected under the GNU GPL v3.0 license and the exclusive stewardship of the lead architect.
 2. **Confidentiality:** Source code implementations (such as internal register maps and raw SPI driver architectures) will only be exposed to vetted institutional partners under strict Non-Disclosure Agreements (NDAs).
+
+---
+
+## 💳 Decentralized Cryptographic Sponsorship
+For grant assessment, decentralized cryptographic sponsorship, and immediate non-capped alignment, refer directly to our repository configurations or transmit through designated channels:
+
+* **USDT (TRC20 Network / Binance):** 
+  `TQRVsoNnF8MN6JVJS3B8zfWbvuuWDdmSXp`
+
+* **Cwallet Gateway (TRC20 / TRON):** 
+  `TWzabDK27dmtXspZbfswWrKaY8ECqpdppm`
+
+> ⚠️ **Verification Note:** Ensure all network selections exactly match the TRC20 (TRON) specification before initializing transaction protocols to prevent capital routing failures. Vetted institutional investors requiring formal documentation may request corporate escrow configurations via encrypted inquiry.
