@@ -31,4 +31,4 @@ While the current framework targets existing adaptive silicon platforms for imme
 * **Terahertz Frequency Scaling:** Utilizing pure ballistic electron transport to bypass metallic resistance.
 * **Zero-Resistance Logic Matrix:** Exploiting bi-dimensional hexagonal carbon lattices for cold-state computational stability under 90% peak workloads.
 
-*"For confidential institutional review or strategic investment inquiries, please contact the Lead Architect via [zeroqbany15@gmail.com] or open a secure communication channel."
+*"For confidential institutional review or strategic investment inquiries, please contact the Lead Architect via [zeroqbany15[at]gmail[dot]com] or open a secure communication channel."
