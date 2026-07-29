@@ -30,3 +30,5 @@ Implements constant-time execution verifications to neutralize side-channel timi
 While the current framework targets existing adaptive silicon platforms for immediate mechanical stability, the long-term vector of this project is mathematically optimized for future molecular-scale integration:
 * **Terahertz Frequency Scaling:** Utilizing pure ballistic electron transport to bypass metallic resistance.
 * **Zero-Resistance Logic Matrix:** Exploiting bi-dimensional hexagonal carbon lattices for cold-state computational stability under 90% peak workloads.
+
+*"For confidential institutional review or strategic investment inquiries, please contact the Lead Architect via [zeroqbany15@gmail.com] or open a secure communication channel."
